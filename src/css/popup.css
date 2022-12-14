@@ -1,0 +1,9 @@
+body {
+    min-width: 350px;
+
+}
+
+.div_1{
+    display: grid;
+    gap: 16px;
+}
